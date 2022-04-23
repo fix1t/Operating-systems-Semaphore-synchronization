@@ -1,0 +1,22 @@
+Keby to necakalo 
+H 1 started
+H 1 add to queue
+H 2 started 
+H 2 add to queue
+O 1 started
+O 1 add to queue
+
+
+
+#####################
+Kyslik 
+start 
+wait
+add to queue
+    wait for your turn 
+    when on turn:
+creating molecule   
+wait
+end
+
+semaphores
