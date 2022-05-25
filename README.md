@@ -1,6 +1,6 @@
-# IOS_1
+# IOS_2
 --------------------------------
 ### Subject: Operating systems
-### Project1: Semaphore synchronization
+### Project2: Semaphore synchronization
 --------------------------------
 Evaluation 13/15 
