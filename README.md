@@ -1,2 +1,6 @@
-# IOS_2
-Synchronized processing
+# IOS_1
+--------------------------------
+### Subject: Operating systems
+### Project1: Semaphore synchronization
+--------------------------------
+Evaluation 13/15 
